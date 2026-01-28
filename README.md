@@ -1,4 +1,4 @@
-# ANALDERBY - Data Analysis of [football-derby-analytics](https://github.com/Matthows/football-derby-analytics) 
+# ANALDERBY - Data Analysis of [football-derby-analytics](https://github.com/Matthows/analderby-football-derby-analytics) 
 
 # **1. Introduction**
 
