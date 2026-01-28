@@ -1,4 +1,4 @@
-# ANALDERBY - Data Analysis [ Mattia Firrisi ]
+# ANALDERBY - Data Analysis of [analderby](...) 
 
 # **1. Introduction**
 
